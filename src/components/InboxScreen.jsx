@@ -23,7 +23,6 @@ export default function InboxScreen() {
       </div>
     );
   }
-
   return (
     <div className="page lists-show">
       <nav>
